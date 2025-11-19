@@ -1,3 +1,4 @@
+#beats 100% submissions leetcode
 class Solution:
     def removeElement(self, nums: list[int], val: int) -> int:
         if len(nums) == 0:
