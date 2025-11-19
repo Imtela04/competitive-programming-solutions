@@ -1,3 +1,4 @@
+#two pointers approach
 class Solution:
     def removeDuplicates(self, nums) -> int:
         k = 1
