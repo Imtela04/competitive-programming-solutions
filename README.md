@@ -8,10 +8,14 @@ A collection of solutions to competitive programming problems, primarily from Le
 competitive-programming-solutions/
 └── easy/
     ├── difference of sums.py
+    ├── index of first occurrence of string.py
     ├── is palindrome.py
     ├── longest common prefix.py
     ├── merge sorted linked lists.py
+    ├── remove duplicates from sorted array.py
+    ├── remove element.py
     ├── roman to int.py
+    ├── search insert position.py
     ├── two Sum.py
     └── valid parentheses.py
 ```
@@ -29,6 +33,10 @@ competitive-programming-solutions/
 | Longest Common Prefix | [longest common prefix.py](easy/longest%20common%20prefix.py) | String |
 | Is Palindrome | [is palindrome.py](easy/is%20palindrome.py) | String, Two Pointers |
 | Difference of Sums | [difference of sums.py](easy/difference%20of%20sums.py) | Math, Array |
+| Index of First Occurrence | [index of first occurrence of string.py](easy/index%20of%20first%20occurrence%20of%20string.py) | String, Two Pointers |
+| Remove Duplicates from Sorted Array | [remove duplicates from sorted array.py](easy/remove%20duplicates%20from%20sorted%20array.py) | Array, Two Pointers |
+| Remove Element | [remove element.py](easy/remove%20element.py) | Array, Two Pointers |
+| Search Insert Position | [search insert position.py](easy/search%20insert%20position.py) | Array, Binary Search |
 
 ## 🛠️ Technologies Used
 
@@ -58,7 +66,7 @@ Each solution file contains:
 
 ## 📊 Progress Tracker
 
-- **Easy**: 7 problems solved
+- **Easy**: 11 problems solved
 - **Medium**: Coming soon
 - **Hard**: Coming soon
 
